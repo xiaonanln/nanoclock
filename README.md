@@ -1,4 +1,4 @@
 # py-high-precision-clock
 High precision clock for python
 
-Works on Linux
+nanoclock simply uses clock_gettime API and works on Linux
